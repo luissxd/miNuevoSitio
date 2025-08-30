@@ -1,14 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: RubyWeb
 ---
 
 # RubyWeb
 
-Bienvenido a mi sitio web ruby.
+Bienvenido a mi sitio de la clase 👋.
+
+[Ir a About]({{ "/about/" | relative_url }})
 
 ## Posts
 <ul>
