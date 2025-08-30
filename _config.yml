@@ -57,7 +57,8 @@ plugins:
 defaults:
 -
   scope:
-    path: "posts" # empty string means all files
+    path: "" # empty string means all files
+    type: "posts"
   values:
     layout: "post"
     author: "Luis Aguirre"

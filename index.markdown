@@ -8,7 +8,7 @@ title: RubyWeb
 
 # RubyWeb
 
-Bienvenido a mi sitio de la clase. 👋
+Bienvenido a mi sitio web ruby.
 
 ## Posts
 <ul>
